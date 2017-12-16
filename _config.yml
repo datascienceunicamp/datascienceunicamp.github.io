@@ -22,12 +22,9 @@ title: Data Science Unicamp
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-<<<<<<< 31aea4ad6bfa2d90c64c9a85154f6741cc546aa5
-github_username:  datascienceunicamp
-=======
 #github_username:  datascienceunicamp
 #facebook_username: datascienceunicamp
->>>>>>> adding initial content
+
 
 # Build settings
 markdown: kramdown
